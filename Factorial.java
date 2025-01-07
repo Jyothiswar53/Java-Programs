@@ -7,7 +7,7 @@ public class Factorial {
         n=obj.nextInt();
         for(int i=1;i<=n;i++)
         {
-            fact=fact*i;
+            fact=fact*i:
         }
         System.out.println("The factorail of the given number is "+fact);
     }
