@@ -13,5 +13,6 @@ public class EvenOdd {
         {
             System.out.println("odd");
         }
+        obj.close();
     }
 }
