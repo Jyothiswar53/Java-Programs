@@ -42,5 +42,6 @@ public class Quadratic {
             System.out.println("Root 1 = " + realpart + "+" + imaginarypart + "i");
             System.out.println("Root 2 = " + realpart + "+" + imaginarypart + "i");
         }
+        s.close();
     }
 }
